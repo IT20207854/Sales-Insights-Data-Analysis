@@ -3,3 +3,6 @@ Problem Statement - AtliQ Hardware is a company which supplies computer hardware
 
 #Data Cleaning
 Remove rows containing transactions done out of India. 
+
+![image](https://github.com/IT20207854/Sales-Insights-Data-Analysis/assets/88416116/773b4561-a2d6-498d-9a29-f878a698a17e)
+
