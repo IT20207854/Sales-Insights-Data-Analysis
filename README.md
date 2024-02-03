@@ -9,7 +9,7 @@ The company's MySQL database, which houses data on transactions, customers, prod
 * Exclude rows with transactions conducted outside of India.
 * Eliminate any duplicate entries.
 
-3. Transformations
+2. Transformations
 * Introduce a new column for normalized sales amounts, converting all amounts to Indian Rupees.
 * Establish measures for the Sum of Sales Amount and Sum of Sales Quantity.
 
